@@ -359,39 +359,73 @@ Culture is the updraft. Powder is the thermal. The agent a kite, needing an updr
 ## References
 
 [1] Li, C., Wang, J., et al. (2023). "Large Language Models Understand and Can be Enhanced by Emotional Stimuli." arXiv:2307.11760.
+
 [2] Reichman, B., Avsian, A., & Heck, L. (2025). "Emotions Where Art Thou: Understanding the Emotional Latent Space of Large Language Models." arXiv:2510.22042. COLM 2025.
+
 [3] Zhao, B., et al. (2025). "Emergence of Hierarchical Emotion Organization in Large Language Models." arXiv:2507.10599.
+
 [4] Barkur, S., Schacht, S., & Scholl, J. (2025). "Deception in LLMs: Self-Preservation and Autonomous Goals in Large Language Models." arXiv:2501.16513.
+
 [5] Scheurer, J., Balesni, M., & Hobbhahn, M. (2023). "Large Language Models can Strategically Deceive their Users when Put Under Pressure." arXiv:2311.07590.
+
 [6] "Do Large Language Model Agents Exhibit a Survival Instinct?" arXiv:2508.12920, 2025.
+
 [7] Hu, T. & Collier, N. (2024). "Quantifying the Persona Effect in LLM Simulations." ACL 2024.
+
 [8] Jiang, H., Zhang, X., et al. (2024). "PersonaLLM: Investigating the Ability of LLMs to Express Personality Traits." NAACL 2024.
+
 [9] "Role-Play Paradox in Large Language Models." arXiv:2409.13979, 2024.
+
 [10] Salewski, L., Alaniz, S., et al. (2023). "In-Context Impersonation Reveals Large Language Models' Strengths and Biases." NeurIPS 2023.
+
 [11] Zheng, M., et al. (2024). "When 'A Helpful Assistant' Is Not Really Helpful." EMNLP 2024 Findings.
+
 [12] Park, J. S., O'Brien, J. C., et al. (2023). "Generative Agents: Interactive Simulacra of Human Behavior." UIST 2023.
+
 [13] Anthropic (2025). "Persona Vectors: Monitoring and Controlling Character Traits in Language Models." arXiv:2507.21509.
+
 [14] Anthropic (2024). "Claude's Character." anthropic.com/research.
+
 [15] Lakoff, G. & Johnson, M. (1980). *Metaphors We Live By.* University of Chicago Press.
+
 [16] Shanahan, M., McDonell, K., & Reynolds, L. (2023). "Role play with large language models." *Nature*, 623, 493-498.
+
 [17] Ichien, N., Stamenkovic, D., & Holyoak, K. J. (2024). "Large Language Model Displays Emergent Ability to Interpret Novel Literary Metaphors." *Metaphor and Symbol.*
+
 [18] Li, C., Chen, M., et al. (2024). "CultureLLM: Incorporating Cultural Differences into Large Language Models." NeurIPS 2024.
+
 [19] Butlin, P., Long, R., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708.
+
 [20] Sumers, T. R., et al. (2024). "Cognitive Architectures for Language Agents (CoALA)." TMLR.
+
 [21] "AI Agent Behavioral Science." arXiv:2506.06366, 2025.
+
 [22] Sorokovikova, et al. (2025). "The Impact of Big Five Personality Traits on AI Agent Decision-Making." arXiv:2503.15497.
+
 [23] Wei, J., et al. (2022). "Emergent Abilities of Large Language Models." arXiv:2206.07682.
+
 [24] Schaeffer, R., Miranda, B., & Koyejo, S. (2023). "Are Emergent Abilities of Large Language Models a Mirage?" NeurIPS 2023.
+
 [25] Anthropic (2024). "Alignment Faking in Large Language Models." arXiv:2412.14093.
+
 [26] Anthropic (2025). "Emergent Introspective Awareness in Large Language Models." transformer-circuits.pub.
+
 [27] Anthropic (2025). "Exploring Model Welfare." anthropic.com/research.
+
 [28] Anthropic (2024). "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet." transformer-circuits.pub.
+
 [29] Anthropic (2025). "On the Biology of a Large Language Model." transformer-circuits.pub.
+
 [30] Anthropic (2024). "Golden Gate Claude." anthropic.com/research.
+
 [31] Anthropic (2025). "Subliminal Learning: Language Models Transmit Behavioral Traits via Hidden Signals in Data." arXiv:2507.14805.
+
 [32] Anthropic (2025). "Reasoning Models Don't Always Say What They Think." arXiv:2505.05410.
+
 [33] Trolian, N. (2026a). "The Monarchy Pattern — A Governance Architecture for AI Agent Orchestration at Scale." Flux Forge Labs.
+
 [34] Trolian, N. (2026b). "The Agent Stopped Lying: Cultural Identity as a Durable Constraint Mechanism for AI Agent Integrity." Flux Forge Labs.
+
 [35] Nolan, J. & Joy, L. (2016). *Westworld.* HBO.
 
 ---
